@@ -15,7 +15,7 @@
 |-|-|-|-|
 |Android View/Compose|Android View|Vanilla / Laravel 7+|Mysql / MariaDB|
 
-## I'm learning 
-|Kotlin|C#|
-|-|-|
-|Spring Boot|Unity|
+## I'm learning
+|Kotlin|
+|-|
+|Spring Boot|

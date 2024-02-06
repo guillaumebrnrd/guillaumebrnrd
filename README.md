@@ -1,16 +1,21 @@
-### Hi there 👋
+[![portfolio](https://github.com/guillaumebrnrd/guillaumebrnrd/blob/main/banner.png?raw=true)](https://gui-bernard.fr/)
+### [Hello there](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
 
-<!--
-**guillaumebrnrd/guillaumebrnrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr> 
 
-Here are some ideas to get you started:
+## About me
+- 👨‍💻 Guillaume, french developper
+- 💼 Currently working as lead Android developer (Kotlin)
+- 🐈 Living countryside, somewhere at my cat's place
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+## I can do this
+|Kotlin|Java|PHP|SQL|
+|-|-|-|-|
+|Android View/Compose|Android View|Vanilla / Laravel 7+|Mysql / MariaDB|
+
+## I'm learning 
+|Kotlin|C#|
+|-|-|
+|Spring Boot|Unity|

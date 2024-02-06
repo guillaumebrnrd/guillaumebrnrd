@@ -8,6 +8,8 @@
 - 💼 Currently working as lead Android developer (Kotlin)
 - 🐈 Living countryside, somewhere at my cat's place
 
+<small>🔗 https://gui-bernard.fr</small>
+
 <hr>
 
 ## I can do this
@@ -15,7 +17,9 @@
 |-|-|-|-|
 |Android View/Compose|Android View|Vanilla / Laravel 7+|Mysql / MariaDB|
 
-## I'm learning
+<hr>
+
+## I'm learning this
 |Kotlin|
 |-|
 |Spring Boot|
